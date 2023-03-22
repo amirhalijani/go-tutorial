@@ -1,4 +1,5 @@
 // Ways to define variables
+
 var example_1 = 3
 
 var example_2 int = 3
